@@ -61,10 +61,10 @@
 					<div class="container">
 						<?php if (get_locale() == 'en_US') : ?>
 							<p>Developed by <a href="https://thet.com.ar/" target="_blank">THET Studio</a></p>
-							<p>Photography by Verónica Tello</p>
+							<p>Photography by <span>Verónica Tello</span></p>
 						<?php else : ?>
 							<p>Desarrollado por <a href="https://thet.com.ar/" target="_blank">THET Studio</a></p>
-							<p>Fotografía por Verónica Tello </p>
+							<p>Fotografía por <span>Verónica Tello</span></p>
 						<?php endif; ?>
 					</div>
 				</div>
