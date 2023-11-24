@@ -373,10 +373,11 @@ get_header();
 							Gabriel Rabinovich realizó su doctorado en Inmunología y Glicobiología en la Facultad de Ciencias Químicas de la Universidad Nacional de Córdoba, Argentina.</span> Es director del Laboratorio de Glicomedicina del Instituto de Biología y Medicina Experimental (IBYME), investigador principal del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET); y profesor de Inmunología de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. Fue distinguido como miembro internacional de: la Academia Nacional de Ciencias de Estados Unidos; de la Organización Europea de Biología Molecular; de la Academia Latinoamericana de Ciencias; de la Academia Mundial de Ciencias (TWAS); de la Academia Argentina de Ciencias; y de la Academia Argentina de Ciencias Exactas y Naturales. Recibió numerosos premios entre los cuales se incluyen: Premio Karl Meyer (Society of Glycobiology); Premio TWAS; John Simon Guggenheim; Investigador de la Nación Argentina; Premios Bunge & Born; y Konex. Publicó más de 320 artículos, muchos de ellos en revistas del más alto perfil, presentó 11 patentes y dictó más de 400 conferencias en congresos nacionales e internacionales. Dirigió numerosas tesis doctorales y becarios postdoctorales. Fue editor asociado o miembro del consejo editorial de importantes revistas, organizó reuniones científicas internacionales y realizó un extenso trabajo en la promoción mundial de la inmunología y las glicociencias.
 						
 					</p>
-						<a href="https://galtec.ar/wp-content/uploads/2023/11/Gabriel-Rabinovich-ES.pdf" download>
+					<div class="modal-bottom">
+					<a href="https://galtec.ar/wp-content/uploads/2023/11/Gabriel-Rabinovich-ES.pdf" download>
 						Download CV
 						</a>
-						<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					</div>						
 					</div>
 				</div>
 			</section>
@@ -405,7 +406,7 @@ get_header();
 						Daniel Falcón es licenciado en Economía egresado de la Universidad Católica Argentina.</span> Ha completado programas de formación avanzada en finanzas corporativas y banca de inversión en Estados Unidos. Con más de cuatro décadas de valiosa experiencia en el mundo corporativo, ha ocupado cargos de alta dirección y directorios en empresas argentinas y multinacionales. Su destacada carrera incluye roles como director ejecutivo de Galicia Advent Private Equity Fund; asesor del directorio del Grupo Financiero Galicia, vicepresidente de Citibank N.A Argentina y Citicorp Capital Investors; y accionista y miembro del directorio de Aguila Saint S.A. También ha realizado importantes contribuciones al sector público, desempeñándose como miembro del directorio de la Agencia Nacional de Desarrollo de Inversiones; director ejecutivo del Fondo Fiduciario de Capitalización Bancaria; asesor de la Secretaría de Finanzas, Bancos y Seguros del Ministerio de Economía de la Nación; director del Banco Nacional de Desarrollo; y director de ARLABANK (Banco Árabe Latinoamericano) en representación de Argentina.
 					
 					</p>
-						<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+						
 					</div>
 				</div>
 			</section>
@@ -434,7 +435,7 @@ get_header();
 							Kiyomi Mizutamari realizó su doctorado en Glicobiología en la Facultad de Ciencias Químicas de la Universidad Nacional de Córdoba, Argentina</span>; y su posdoctorado en la Universidad de Washington, Seattle, Estados Unidos, bajo la dirección del Dr. Sen-Itiroh Hakomori. Además realizó un entrenamiento en Bioindustrias en Japón. Es profesional científico tecnológico superior del Centro de Excelencia en Productos y Procesos (CEPROCOR), Córdoba, Argentina; coordinadora adjunta de la Unidad de Tecnología Química y Profesora de Biotecnología Farmacéutica de la Universidad Nacional de La Rioja. Además cofundó y fue vicepresidenta de la Fundación para la Socialización del Conocimiento Científico “Carlos Landa”. Ha sido distinguida como Joven Sobresaliente por la Bolsa de Comercio de Córdoba; y Joven Destacada Nikkei. Desde hace más de 25 años dirige y ejecuta numerosos proyectos de I+D para la transferencia de conocimiento al sector socioproductivo. 
 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 					</div>
 				</div>
 			</section>
@@ -463,7 +464,7 @@ get_header();
 							Juan Manuel Pérez Sáez realizó su doctorado en la producción de proteínas recombinantes en animales transgénicos en el Departamento de Química Biológica de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires, Argentina, donde también obtuvo el título de Licenciado en Ciencias Biológicas.</span> Es miembro del Laboratorio de Glicomedicina del Instituto de Biología y Medicina Experimental (IBYME) e investigador adjunto del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET). Ha nutrido su formación participando de la investigación académica y del desarrollo en la industria farmacéutica, donde ha liderado varios proyectos dedicados a la optimización de procesos de “Upstream” tanto en microorganismos como en células de mamíferos. Es director de dos tesis doctorales. Se destaca por su dedicación al desarrollo de agonistas y antagonistas de Galectina 1 para modular la respuesta del sistema inmune en inflamaciones crónicas, enfermedades autoinmunes y oncológicas.
 						
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -492,7 +493,7 @@ get_header();
 							Pablo Hockl se formó como Bioquímico en la Facultad de Farmacia y Bioquímica, Universidad de Buenos Aires. Es profesional principal del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).</span> Fue docente de pregrado, grado, postgrado y maestrías universitarias de la Universidad de Buenos Aires y de la Universidad de Ciencias Empresariales y Sociales. En el ámbito privado se destacó por 12 años en la empresa de reactivos de diagnóstico V. Tokatlian S.A, donde fue director técnico y responsable de Asuntos Regulatorios, Control y Garantía de Calidad. A su vez fue responsable técnico ante la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT) y la Autoridad Regulatoria Nuclear (ARN). Su experiencia incluye trabajo en investigación, desarrollo y gestión en inmunopatología y glicomedicina; el desarrollo de técnicas de inmunoensayo; HPLC; biología molecular y sus aplicaciones en biotecnología. Ha publicado 14 trabajos científicos con referato y una patente
 						
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 					</div>
 				</div>
 			</section>
@@ -522,7 +523,7 @@ get_header();
 						Alejandro Cagnoni es doctor en Ciencias Químicas de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires (UBA) ; y L’Université de Picardie Jules Verne (UPJV), Amiens, Francia).</span> Actualmente se desempeña como investigador adjunto del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) en el Instituto de Biología y Medicina Experimental (IBYME) y como jefe de Trabajos Prácticos en la Facultad de Ciencias Exactas y Naturales de la UBA. Es coautor de 29 artículos en revistas internacionales de excelente prestigio en la disciplina, y coautor de 35 trabajos presentados a congresos nacionales e internacionales. Es responsable técnico de dos servicios tecnológicos de alto nivel en el IBYME. Ha recibido premios individuales de: la Fundación Honorio Bigand; de la Sociedad Argentina de Investigaciones en Química Orgánica; y de la Facultad de Ciencias Exactas y Naturales.  Además premios grupales incluyendo: Premio Merck-CONICET de Innovación en Ciencias de la Salud; Premio Fundación Gador; Premio Lustig; Premio Fundación Fiorini; Premio Cherny; Premio Faryna-Raveglia; y Premio Udaondo de la Academia Nacional de Medicina, entre otros. Posee gran interés en química orgánica, química biológica, la química de los hidratos de carbono y la glicobiología, con especial foco en enfermedades inflamatorias intestinales y cáncer colorrectal.
 					
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -553,7 +554,7 @@ get_header();
 						Utilizando un enfoque traslacional, integrativo y multidisciplinario, sus estudios se han centrado en dilucidar nuevos circuitos glicobiológicos relevantes en enfermedades intestinales. Ha recibido diversos premios y distinciones, incluyendo el premio Udaondo de la Academia Nacional de Medicina en 2019 por su trabajo en inflamación intestinal, y el Premio Bienal sobre Investigación en Cáncer Fundación Florencio Fiorini (2021) por su trabajo en cáncer colorrectal. 
 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -582,7 +583,7 @@ get_header();
 					 	Mercedes Goin se graduó de Bioquímica en la Universidad de Buenos Aires.</span> Realizó su doctorado en Biología Celular y Molecular en el Instituto de Ingeniería Genética y Biología Molecular (INGEBI) y su posdoctorado en los Institutos Luis F. Leloir y Biología y Medicina Experimental (IBYME), en Buenos Aires, Argentina, siendo becaria del CONICET. Fue docente de Ingeniería Genética en la Carrera de posgrado de Especialización en Biotecnología Industrial (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-Instituto Nacional de Tecnología Industrial). Se desempeñó como jefa de Desarrollos Moleculares en la industria farmacéutica en los laboratorios Beta S.A. y Denver Farma S.A. durante los últimos 25 años. Su experiencia incluye la generación de numerosos clones productores de proteínas 
 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">	
+						
 					</div>
 				</div>
 			</section>
@@ -614,7 +615,7 @@ get_header();
 						Alejandro Cagnoni es doctor en Ciencias Químicas de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires (UBA) ; y L’Université de Picardie Jules Verne (UPJV), Amiens, Francia).</span> Actualmente se desempeña como investigador adjunto del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) en el Instituto de Biología y Medicina Experimental (IBYME) y como jefe de Trabajos Prácticos en la Facultad de Ciencias Exactas y Naturales de la UBA. Es coautor de 29 artículos en revistas internacionales de excelente prestigio en la disciplina, y coautor de 35 trabajos presentados a congresos nacionales e internacionales. Es responsable técnico de dos servicios tecnológicos de alto nivel en el IBYME. Ha recibido premios individuales de: la Fundación Honorio Bigand; de la Sociedad Argentina de Investigaciones en Química Orgánica; y de la Facultad de Ciencias Exactas y Naturales.  Además premios grupales incluyendo: Premio Merck-CONICET de Innovación en Ciencias de la Salud; Premio Fundación Gador; Premio Lustig; Premio Fundación Fiorini; Premio Cherny; Premio Faryna-Raveglia; y Premio Udaondo de la Academia Nacional de Medicina, entre otros. Posee gran interés en química orgánica, química biológica, la química de los hidratos de carbono y la glicobiología, con especial foco en enfermedades inflamatorias intestinales y cáncer colorrectal.
 					
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -645,7 +646,7 @@ get_header();
 						Utilizando un enfoque traslacional, integrativo y multidisciplinario, sus estudios se han centrado en dilucidar nuevos circuitos glicobiológicos relevantes en enfermedades intestinales. Ha recibido diversos premios y distinciones, incluyendo el premio Udaondo de la Academia Nacional de Medicina en 2019 por su trabajo en inflamación intestinal, y el Premio Bienal sobre Investigación en Cáncer Fundación Florencio Fiorini (2021) por su trabajo en cáncer colorrectal. 
 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -674,7 +675,7 @@ get_header();
 					 	Mercedes Goin se graduó de Bioquímica en la Universidad de Buenos Aires.</span> Realizó su doctorado en Biología Celular y Molecular en el Instituto de Ingeniería Genética y Biología Molecular (INGEBI) y su posdoctorado en los Institutos Luis F. Leloir y Biología y Medicina Experimental (IBYME), en Buenos Aires, Argentina, siendo becaria del CONICET. Fue docente de Ingeniería Genética en la Carrera de posgrado de Especialización en Biotecnología Industrial (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires-Instituto Nacional de Tecnología Industrial). Se desempeñó como jefa de Desarrollos Moleculares en la industria farmacéutica en los laboratorios Beta S.A. y Denver Farma S.A. durante los últimos 25 años. Su experiencia incluye la generación de numerosos clones productores de proteínas 
 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">	
+				
 					</div>
 				</div>
 			</section>

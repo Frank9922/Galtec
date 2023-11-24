@@ -370,7 +370,7 @@ get_header();
 						<a href="https://galtec.ar/wp-content/uploads/2023/11/RABINOVICH-GABRIEL-EN.pdf" download>
 						Download CV
 						</a>
-						<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+						
 					</div>
 				</div>
 			</section>
@@ -397,7 +397,7 @@ get_header();
 					<p>
 					<span>Daniel Falcón holds a Bachelor's Degree in Economics from the Pontifical Catholic University of Argentina.</span> He has completed advanced training programs in corporate finance and investment banking in the United States. He has over 40 years of remarkable expertise in senior management and board positions in both domestic and multinational companies. His outstanding career includes roles as Executive Director of Galicia Advent Private Equity Fund, advisor to the Board of Directors of Galicia Financial Group, vice president of Citibank N.  Argentina and Citicorp Capital Investors, as well as shareholder and Board Member of Aguila Saint Inc.  In addition to his corporate achievements, he has made significant contributions to the public sector, by serving as a Board Member of the National Agency for Investment Development, Executive Director of the Bank Capitalization Trust Fund, Advisor to the Secretariat for Funds, Banks and Insurance of the Ministry of Economy of the Nation; Board Member of the National Development Bank, and Board Member of ARLABANK (Latin American Arab Bank) serving as Argentina’s Representative.
 					</p>
-						<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+						
 					</div>
 				</div>
 			</section>
@@ -424,7 +424,7 @@ get_header();
 					<p>
 						<span>Kiyomi Mizutamari earned her doctorate in Glycobiology from the School of Chemical Sciences at the National University of Córdoba, Argentina.</span> She then completed her postdoctoral training at the University of Washington in Seattle, United States, under the guidance of Prof. Sen-Itiroh Hakomori.  She pursued Bioindustries training in Japan. She is a senior scientist at the Center of Excellence in Products and Processes (CEPROCOR) in Córdoba, Argentina. She is the Deputy Coordinator of the Chemical Technology Unit and Professor of Pharmaceutical Biotechnology at the National University of La Rioja. Additionally, she co-founded and served as the vice president of the “Carlos Landa” Foundation for the Socialization of Scientific Knowledge. She has been recognized as an Outstanding Young Person by the Córdoba Stock Exchange and also as an Outstanding Young Nikkei.  Over the course of  25 years she has directed and  carried out many  R&D projects aiming at the transferring of knowledge to the socio-productive sector.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 					</div>
 				</div>
 			</section>
@@ -451,7 +451,7 @@ get_header();
 					<p id="juan">
 						<span>Juan Manuel Pérez Sáez  holds a  PhD in the production of recombinant proteins in transgenic animals from the Department of Biological Chemistry of the  School of Exact and Natural Sciences at the University of Buenos Aires, Argentina.</span> He also earned a Bachelor's degree in Biological Sciences from the same University. Currently, he is a member of the Glycomedicine Laboratory at the Institute of Biology and Experimental Medicine (IBYME) and an adjunct researcher at the National Council for Scientific and Technical Research (CONICET). He has extensive experience in academic research and development in the pharmaceutical industry. He has led several projects dedicated to optimizing "Upstream" processes in microorganisms and mammalian cells. He is currently supervising two doctoral theses. His research interests are focused on developing Galectin 1 agonists and antagonists to modulate the immune system response in chronic inflammations, autoimmune and oncological conditions.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -478,7 +478,7 @@ get_header();
 					<p>
 						<span>He completed his training in Biochemistry at the  School of Pharmacy and Biochemistry, University of Buenos Aires and is currently a  principal professional of the National Council for Scientific and Technical Research (CONICET).</span> He has taught at the undergraduate, graduate, and postgraduate levels and has obtained university master's degrees from the University of Buenos Aires and the University of Business and Social Sciences (UCES). In the private sector, he has been a technical director for  12 years at the diagnostic reagents company V.. where he was responsible for regulatory affairs, quality control and quality assurance. He has also served as a technical liaison for both the National Administration of Medicines, Food and Medical Technology (ANMAT) and the Nuclear Regulatory Authority (ARN). His experience includes managing and conducting research in immunopathology and Glycomedicine, as well as developing immunoassay techniques, HPLC, molecular biology and their biotechnological applications. Additionally, he has authored 14 peer-reviewed scientific publications and holds one patent. 
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 					</div>
 				</div>
 			</section>
@@ -508,7 +508,7 @@ get_header();
 					<p>
 					<span>Alejandro Cagnoni holds a PhD in Chemical Sciences from the  School of Exact and Natural Sciences at the University of Buenos Aires (UBA) and L'Université de Picardie Jules Verne (UPJV) in Amiens, France.</span> He currently serves as an associate researcher at the National Council for Scientific and Technical Research (CONICET) at the Institute Biology of and Experimental Medicine (IBYME) while also working as an assistant professor at the  School of Exact and Natural Sciences (UBA). He has  co-authored  29 papers in internationally recognized journals within his discipline and has coauthored  35 presentations at both national and international conferences. Additionally, he is the technical manager of two Technological Services at IBYME. He has received individual awards from the Honorio Bigand Foundation, the Argentine Society for Organic Chemistry Research, and the School of Exact and Natural Sciences. Moreover, he has received several group awards, including the Merck-CONICET Award for Innovation in Health Sciences, Gador Foundation Award,  Lustig Award, Fiorini Foundation Award, Cherny Award, Faryna-Raveglia Award,  Udaondo Award from the National Academy of Medicine, among others. His research interests lie in  organic chemistry, biological chemistry, carbohydrate chemistry and glycobiology, particularly focusing on inflammatory bowel diseases and colorectal cancer.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -536,7 +536,7 @@ get_header();
 						
 					<span>Karina Mariño obtained her master's and PhD in Chemistry from the University of Buenos Aires.</span> She specialized in glycobiology during her postdoctoral position at the Division of Biological Chemistry and Drug Discovery, College of Life Sciences, University of Dundee in Scotland, and in glycoanalytics at the National Institute for Bioprocessing, Research and Training in Dublin, Ireland. In 2012, she returned to Argentina to work as a researcher at the Institute of Experimental Biology and Medicine (IBYME) and as a director of the Molecular and Functional Glycomics Laboratory, which is part of the National Council for Scientific and Technical Research (CONICET). Since 2021, she has been the national representative of the International Glycoconjugate Organization. Her research focuses on identifying new glycobiological circuits in intestinal diseases using a translational, integrative, and multidisciplinary approach. She has received several awards, including the Udaondo Award in 2019 from the National Academy of Medicine (Argentina) for her work in glycoimmunology of intestinal inflammation, and the Florencio Fiorini Foundation Biennial Award on Cancer Research in 2021 for her research on colorectal cancer. Lastly, due to her proficiency in glycobiology and glycoanalytics, she has become a consultant and provided services to local and regional biotechnology companies.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -563,7 +563,7 @@ get_header();
 					<p>
  				<span>Mercedes Goin holds a degree in Biochemistry from the University of Buenos Aires.</span> She completed her PhD in Cellular and Molecular Biology at the Institute of Genetic Engineering and Molecular Biology (INGEBI), and conducted her postdoctoral studies at the Luis F. Leloir  Institute and the Biology and Medicine Experimental Institute (IBYME) in Buenos Aires, Argentina. During her doctoral and postdoctoral studies, she received a CONICET fellowship. In addition to her academic achievements, she has also taught Genetic Engineering in the Postgraduate Course of Specialization in Industrial Biotechnology (FCEN, UBA-INTI). With more than 25 years of experience, she has worked as Head of Molecular Developments in the pharmaceutical industry at Beta S.A. and Denver Farma S.A. Her expertise lies in generating numerous clones that produce recombinant proteins, developing and validating quality control techniques, and technology transfer.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">	
+					
 					</div>
 				</div>
 			</section>
@@ -597,7 +597,7 @@ get_header();
 					<p>
 					<span>Alejandro Cagnoni holds a PhD in Chemical Sciences from the  School of Exact and Natural Sciences at the University of Buenos Aires (UBA) and L'Université de Picardie Jules Verne (UPJV) in Amiens, France.</span> He currently serves as an associate researcher at the National Council for Scientific and Technical Research (CONICET) at the Institute Biology of and Experimental Medicine (IBYME) while also working as an assistant professor at the  School of Exact and Natural Sciences (UBA). He has  co-authored  29 papers in internationally recognized journals within his discipline and has coauthored  35 presentations at both national and international conferences. Additionally, he is the technical manager of two Technological Services at IBYME. He has received individual awards from the Honorio Bigand Foundation, the Argentine Society for Organic Chemistry Research, and the School of Exact and Natural Sciences. Moreover, he has received several group awards, including the Merck-CONICET Award for Innovation in Health Sciences, Gador Foundation Award,  Lustig Award, Fiorini Foundation Award, Cherny Award, Faryna-Raveglia Award,  Udaondo Award from the National Academy of Medicine, among others. His research interests lie in  organic chemistry, biological chemistry, carbohydrate chemistry and glycobiology, particularly focusing on inflammatory bowel diseases and colorectal cancer.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -625,7 +625,7 @@ get_header();
 						
 					<span>Karina Mariño obtained her master's and PhD in Chemistry from the University of Buenos Aires.</span> She specialized in glycobiology during her postdoctoral position at the Division of Biological Chemistry and Drug Discovery, College of Life Sciences, University of Dundee in Scotland, and in glycoanalytics at the National Institute for Bioprocessing, Research and Training in Dublin, Ireland. In 2012, she returned to Argentina to work as a researcher at the Institute of Experimental Biology and Medicine (IBYME) and as a director of the Molecular and Functional Glycomics Laboratory, which is part of the National Council for Scientific and Technical Research (CONICET). Since 2021, she has been the national representative of the International Glycoconjugate Organization. Her research focuses on identifying new glycobiological circuits in intestinal diseases using a translational, integrative, and multidisciplinary approach. She has received several awards, including the Udaondo Award in 2019 from the National Academy of Medicine (Argentina) for her work in glycoimmunology of intestinal inflammation, and the Florencio Fiorini Foundation Biennial Award on Cancer Research in 2021 for her research on colorectal cancer. Lastly, due to her proficiency in glycobiology and glycoanalytics, she has become a consultant and provided services to local and regional biotechnology companies.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">
+					
 						</div>
 				</div>
 			</section>
@@ -652,7 +652,6 @@ get_header();
 					<p>
 				<span>Mercedes Goin holds a degree in Biochemistry from the University of Buenos Aires.</span> She completed her PhD in Cellular and Molecular Biology at the Institute of Genetic Engineering and Molecular Biology (INGEBI), and conducted her postdoctoral studies at the Luis F. Leloir  Institute and the Biology and Medicine Experimental Institute (IBYME) in Buenos Aires, Argentina. During her doctoral and postdoctoral studies, she received a CONICET fellowship. In addition to her academic achievements, she has also taught Genetic Engineering in the Postgraduate Course of Specialization in Industrial Biotechnology (FCEN, UBA-INTI). With more than 25 years of experience, she has worked as Head of Molecular Developments in the pharmaceutical industry at Beta S.A. and Denver Farma S.A. Her expertise lies in generating numerous clones that produce recombinant proteins, developing and validating quality control techniques, and technology transfer.
 					</p>
-					<img src="https://galtec.ar/wp-content/uploads/2023/10/galectinas-a.png">	
 					</div>
 				</div>
 			</section>

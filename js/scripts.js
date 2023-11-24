@@ -449,6 +449,7 @@ const modals = document.querySelectorAll('.modal');
 	modalButtons.forEach((button, index) => {
 		button.addEventListener('click', () => {
 			if(modals[index]){
+                document.body.classList.add('modal-open');
 				modals[index].classList.add('modal-show')
 			}
 		});
@@ -458,10 +459,19 @@ const closeModalButtons = document.querySelectorAll('.modal-close');
     closeModalButtons.forEach((button, index) => {
 	button.addEventListener('click', () =>{
 		if(modals[index]){
+                document.body.classList.remove('modal-open');
 				modals[index].classList.remove('modal-show');
 			}
 		});
 	});
 });
+
+$(document).ready(function() {
+        var hash = window.location.hash;
+        if (hash) {
+        scrollToAnchor(hash);
+        }
+    });
+
 
 })(jQuery);

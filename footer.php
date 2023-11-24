@@ -20,34 +20,34 @@
 						<?php if (get_locale() == 'en_US') : ?>
 					<ul>
 						<li><strong>Company</strong></li>		
-						<li><a href="https://galtec.ar/en/home/#about-us">About us</a></li>	
-						<li><a href="https://galtec.ar/en/home/#our-team">Our team</a></li>	
+						<li><a href="/en/home/#about-us">About us</a></li>	
+						<li><a href="/en/home/#our-team">Our team</a></li>	
 					</ul>
 					<ul>
 						<li><strong>Publications</strong></li>		
-						<li><a href="https://galtec.ar/en/selected-publications/">Selected</a></li>	
-						<li><a href="https://galtec.ar/en/publications-all/">Publications</a></li>	
+						<li><a href="/en/selected-publications/">Selected</a></li>	
+						<li><a href="/en/publications-all/">All</a></li>	
 					</ul>
 					<ul>
 						<!--<li><strong><a href="">Products</a></strong></li>-->
 						<!--<li><strong><a href="">Blog</a></strong></li>-->
-						<li><strong><a href="https://galtec.ar/en/home/#contact">Contact</a></strong></li>	
+						<li><strong><a href="/home/#contact">Contact</a></strong></li>	
 					</ul>
 					<?php else : ?>
 					<ul>
 						<li><strong>Empresa</strong></li>		
-						<li><a href="https://galtec.ar/#nosotros">Sobre Nosotros</a></li>	
-						<li><a href="https://galtec.ar/#equipo">Nuestro Equipo</a></li>	
+						<li><a href="/#nosotros">Sobre Nosotros</a></li>	
+						<li><a href="/#equipo">Nuestro Equipo</a></li>	
 					</ul>
 					<ul>
 						<li><strong>Publicaciones</strong></li>		
-						<li><a href="https://galtec.ar/publicaciones-seleccionadas/">Seleccionadas</a></li>	
-						<li><a href="https://galtec.ar/publicaciones-todas/">Todas</a></li>
+						<li><a href="/publicaciones-seleccionadas/">Seleccionadas</a></li>	
+						<li><a href="/publicaciones-todas/">Todas</a></li>
 					</ul>
 					<ul>
 						<!--<li><strong><a href="">Programas</a></strong></li>-->	
 						<!--<li><strong><a href="">Noticias</a></strong></li>-->
-						<li><strong><a href="https://galtec.ar/#contacto">Contacto</a></strong></li>	
+						<li><strong><a href="/#contacto">Contacto</a></strong></li>	
 					</ul>
 
 					<?php endif ?>

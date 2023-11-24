@@ -79,9 +79,13 @@
 			</div>
 			
 			<?php if (get_locale() == 'en_US') : ?>
-				<a href="https://galtec.ar/en/home/#contact" class="contact-btn hashed">Contact us</a>
+				<?php if(is_page('home')) : ?>
+					<a href="#contact" class="contact-btn hashed">Contact us</a>
+				<?php else : ?>
+					<a href="/home/#contact" class="contact-btn hashed">Contact us</a>
+				<?php endif ?>
 			<?php else : ?>
-				<a href="https://galtec.ar/#contacto" class="contact-btn hashed">Contacto</a>
+				<a href="/#contacto" class="contact-btn hashed">Contacto</a>
 			<?php endif; ?>
 
 		</header>
