@@ -1449,7 +1449,7 @@ p {
 }
 .futuro-section {
   background-image: url(https://galtec.ar/wp-content/uploads/2023/08/pexels-karolina-grabowska-5207103-11.jpg);
-  height: 110vh;
+  height: 95vh;
   display: flex;
   align-items: center;
   position: relative;
@@ -3339,6 +3339,13 @@ i {
 }
   /* FIN Contact Section */
 
+
+  .futuro-section {
+    height: 85vh;
+  }
+  .futuro-section h3 {
+    font-size: 80px;
+  }
  /*FIN Home/Inicio */
 
 
@@ -3540,7 +3547,7 @@ i {
   }
 
   .futuro-section {
-    height: 49vw;
+    height: 50vw;
   }
   .futuro-section h3 {
     font-size: 65px!important;
@@ -4111,7 +4118,7 @@ button.big-btn {
     font-size: 65px;
   }
   .tooltip-block {
-    padding: 25px 30px;
+    padding: px 30px;
   }
   .tooltip-block.desarrollo-block {
     top: -24px;
