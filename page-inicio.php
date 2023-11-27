@@ -41,7 +41,8 @@ get_header();
 			
 			<section class="mision-vision-section">
 				<div class="container small-container">
-					<p>Somos una empresa de base tecnológica que desarrolla inmunoterapias basadas en la modulación de galectinas para el tratamiento de cáncer, enfermedades autoinmunes e inflamatorias crónicas, sustentadas en los hallazgos científicos del grupo de investigación dirigido por el <a href="#equipo">Dr. Gabriel Rabinovich.</a></p>
+					<p>Somos una empresa de base tecnológica que desarrolla inmunoterapias basadas en la modulación de galectinas para el tratamiento de cáncer, enfermedades autoinmunes e inflamatorias crónicas, sustentadas en los hallazgos científicos del grupo de investigación dirigido por el 
+					<a class="button-modal-show" data-model="model1">Dr. Gabriel Rabinovich.</a></p>
 					<p>
 					Nuestros científicos, a lo largo de casi 30 años, han generado un profundo conocimiento sobre el papel central de las galectinas y sus ligandos glicosilados en la homeostasis del sistema inmunológico, contribuyendo a la identificación de los “Glycocheckpoints” como un nuevo paradigma en inmunoterapia. Estos estudios han sido avalados por más de 320 artículos científicos en revistas líderes mundiales y  han dado lugar a patentes de invención. 
 					</p>
@@ -350,6 +351,41 @@ get_header();
 			</section>
 						<!--Seccion Modal -->
 						<section class="modal" id="Modal1">
+				<div class="modal-container">
+					<a class="modal-close" data-modal="1">
+						<img src="https://galtec.ar/wp-content/uploads/2023/11/x.png">
+					</a>
+					<div class="modal-title">
+						<div class="photo-perfil">
+							<img src="https://galtec.ar/wp-content/uploads/2023/10/rabinovich.png">
+						</div>
+						<div class="content">
+						<h4>
+							Gabriel Rabinovich
+						</h4>
+						<h5>
+							<span>Cofundador  </span>| Líder científico
+						</h5>
+						</div>
+					</div>
+					<div class="modal-content">
+					<p>
+						<span> 
+							Gabriel Rabinovich realizó su doctorado en Inmunología y Glicobiología en la Facultad de Ciencias Químicas de la Universidad Nacional de Córdoba, Argentina.</span> Es director del Laboratorio de Glicomedicina del Instituto de Biología y Medicina Experimental (IBYME), investigador principal del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET); y profesor de Inmunología de la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires. Fue distinguido como miembro internacional de: la Academia Nacional de Ciencias de Estados Unidos; de la Organización Europea de Biología Molecular; de la Academia Latinoamericana de Ciencias; de la Academia Mundial de Ciencias (TWAS); de la Academia Argentina de Ciencias; y de la Academia Argentina de Ciencias Exactas y Naturales. Recibió numerosos premios entre los cuales se incluyen: Premio Karl Meyer (Society of Glycobiology); Premio TWAS; John Simon Guggenheim; Investigador de la Nación Argentina; Premios Bunge & Born; y Konex. Publicó más de 320 artículos, muchos de ellos en revistas del más alto perfil, presentó 11 patentes y dictó más de 400 conferencias en congresos nacionales e internacionales. Dirigió numerosas tesis doctorales y becarios postdoctorales. Fue editor asociado o miembro del consejo editorial de importantes revistas, organizó reuniones científicas internacionales y realizó un extenso trabajo en la promoción mundial de la inmunología y las glicociencias.
+						
+					</p>
+					<div class="modal-bottom">
+					<a href="https://galtec.ar/wp-content/uploads/2023/11/Gabriel-Rabinovich-ES.pdf" download>
+						Download CV
+						</a>
+					</div>						
+					</div>
+				</div>
+			</section>
+
+
+
+			<section class="modal" id="Modal1">
 				<div class="modal-container">
 					<a class="modal-close" data-modal="1">
 						<img src="https://galtec.ar/wp-content/uploads/2023/11/x.png">

@@ -297,9 +297,12 @@ $('.tooltip-opener').hover(function(event) {
 
     $( ".equipo-btn" ).on( "click", function() {
 
+
         if ($(this).text() == 'Ver todos') {
             $(this).text('Ver menos')
+
         } else if ($(this).text() == 'Ver menos') {
+            $(".icono-ampliar-hidden").css({'opacity': '0', 'transition': 'opacity 0.3s ease'});
             $(this).text('Ver todos')
         } else if ($(this).text() == 'See all') {
             $(this).text('See less')
@@ -314,9 +317,6 @@ $('.tooltip-opener').hover(function(event) {
 		if($(this).css('display') === 'block'){
 			$(".icono-ampliar-hidden").css('opacity', '1');
 		}
-			else {
-				$(".icono-ampliar-hidden").css('opacity', '0');
-			}
         });
     });
 
@@ -464,6 +464,8 @@ const closeModalButtons = document.querySelectorAll('.modal-close');
 			}
 		});
 	});
+
+
 });
 
 $(document).ready(function() {

@@ -36,7 +36,7 @@ get_header();
 						query_posts(
 							array(
 								'post_type'      => 'post',
-								'posts_per_page' => 5,
+								'posts_per_page' => 4,
 								'category_name'	 =>'work-en',
 								'orderby'		 =>'title',
 								'order'			 =>'ASC',
@@ -48,25 +48,23 @@ get_header();
 							while (have_posts()) :
 								the_post();
 
+								$post_content = get_the_content();
+
+
+								preg_match('/<p>(.*?)<\/p>/', $post_content, $matches_paragraph);
+								$first_paragraph = !empty($matches_paragraph) ? $matches_paragraph[1] : '';
+
+								preg_match('/<a(.*?)<\/a>/', $post_content, $matches_link);
+								$first_link = !empty($matches_link) ? $matches_link[0]: '';
+
+								$first_link_with_target_blank = str_replace('<a ', '<a target="_blank" ', $first_link);
 								?>
 								<article class="article-post">
 									<h3> <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 									<p class="tag-post">
-										<?php
-										$post_tags = wp_get_post_terms(get_the_ID(), 'post_tag', array('fields' => 'all'));
-										if (!empty($post_tags))
-											foreach ($post_tags as $tag) {
-												$tag_link = get_term_link($tag);
-												if (is_wp_error($tag_link)) {
-													continue;
-												}
-												?>
-												<a class="tag-link" href="<?php echo esc_url($tag_link); ?>"><?php echo $tag->name;  ?>, </a>
-											<?php
-											}
-										?>
+									<?php echo $first_paragraph ?>
 									</p>
-									<p class="date-post"><?php echo get_the_date(); ?> </p>
+									<p class="date-post"><?php echo $first_link_with_target_blank ?></p>
 									<a href="<?php the_permalink(); ?>" class="link-info-post">
 										<i class="fa-solid fa-plus"></i>
 										<p> Info</p>
